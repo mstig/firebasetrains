@@ -5,3 +5,29 @@
 #table-title, #add-title {
     margin: 1rem 0 0 1rem;
 }
+
+.card {
+    border: 2px solid rgb(172, 98, 0);
+}
+
+.card-title, .lead, h1 {
+    color: rgb(172, 98, 0);
+}
+
+.jumbotron { 
+    background-color:rgba(245, 176, 176, 0.7);
+}
+
+.lead, .display-3 {
+    font-weight: bold;
+}
+
+#train-table {
+    vertical-align: middle;
+    text-align: center;
+}
+
+body {
+    background-image: url("../trainimg.jpg");
+    background-size: cover;
+}
